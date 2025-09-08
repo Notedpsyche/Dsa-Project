@@ -1,0 +1,11 @@
+# Ignore build outputs
+*.o
+*.exe
+*.out
+
+# Ignore backup/temp files
+*~
+*.swp
+
+# Ignore VS Code settings
+.vscode/
